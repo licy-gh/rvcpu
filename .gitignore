@@ -24,12 +24,7 @@
 **/build_test/
 **/difftest
 **/out/
-!libraries/difftest
-!libraries/NEMU
-!libraries/DRAMsim3
-!libraries/am-kernels
-!libraries/abstract-machine
-!libraries/ysyxSoC
+!libraries/
 !submit/*
 !*.xlsx
 myinfo.txt

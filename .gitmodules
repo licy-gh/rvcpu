@@ -1,0 +1,3 @@
+[submodule "libraries/DRAMsim3"]
+	path = libraries/DRAMsim3
+	url = https://gitee.com/oscpu/DRAMsim3.git

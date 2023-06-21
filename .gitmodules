@@ -16,3 +16,9 @@
 [submodule "libraries/abstract-machine"]
 	path = libraries/abstract-machine
 	url = https://github.com/SingularityKChen/abstract-machine.git
+[submodule "libraries/fceux-am"]
+	path = libraries/fceux-am
+	url = https://github.com/SingularityKChen/fceux-am.git
+[submodule "libraries/riscv-tests"]
+	path = libraries/riscv-tests
+	url = https://github.com/NJU-ProjectN/riscv-tests.git
